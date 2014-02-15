@@ -2,7 +2,6 @@ require 'travis/client'
 require 'travis/version'
 
 require 'faraday'
-require 'faraday_middleware'
 require 'travis/tools/system'
 require 'travis/tools/assets'
 
